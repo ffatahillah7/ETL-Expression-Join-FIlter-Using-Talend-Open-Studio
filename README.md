@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/4f239e48-fba5-4efa-b66e-fab1d56cef1d)
+
 # ETL Expression Join Filter Using tMap and tFilterRow Talend-Open-Studio
 Extract data from PostgreSQL Databases, Transform using Expression, Join and Filter on tMap and tFilter Component Talend
 
@@ -26,4 +28,5 @@ Download Dataset file : https://media.geeksforgeeks.org/wp-content/uploads/nba.c
 5.  Drag all the columns and Variable expression from source to destination. In destination window, we can add new column with calculation field.
 6.  Add tFilterRow and choose the column to filter specific value.
 7.  add tLogRow to display the result.
+![image](https://github.com/user-attachments/assets/6767fbe3-63ec-49d3-9584-8777231fc3db)
 
